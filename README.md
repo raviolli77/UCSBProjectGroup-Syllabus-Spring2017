@@ -7,3 +7,8 @@ This repository serves as an itinerary for the Project Group for Spring Quarter 
 # Table of Contents
 * [Week 1](/weekOne/weekOne.md)
 
+## Resources
++ [Data Science at UCSB Website](http://datascience.pstat.ucsb.edu/)
++ [Data Science at UCSB Facebook Page](https://www.facebook.com/DataScienceUCSB/)
++ [Inertia7](http://www.inertia7.com/)
++ [Inertia7 Facebook Page](https://www.facebook.com/DataScienceUCSB/)
