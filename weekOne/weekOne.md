@@ -13,14 +13,14 @@
 	+ Time and Date: April 9th(?)
 	+ Somewhere on campus or I.V. 
 + HG Data Hackathon 
-	+ Time and Date: April 26th 2017
+	+ Time and Date: April 28th 2017
 	+ Locaation: HG Data Offices
 + Chapman Datafest 
 	+ Time and Date: April 21st 2017
 	+ Location: Chapman University, Sandhu Conference Center Room D East
 	+ Link: https://events.chapman.edu/28206
 + Data Science Club Showcase 
-	+ Time and Date: April 28th 2017
+	+ Time and Date: April 26th 2017
 	+ Location: Interdisciplinary Research Collaboratory (Library)
 	+ Link: http://www.library.ucsb.edu/events-exhibitions/data-science-club-showcase
 + UCLA DataFest
