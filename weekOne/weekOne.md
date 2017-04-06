@@ -7,7 +7,12 @@
 	+ **Important Dates** for this Quarter
 	+ **Case Studies** from teams of last quarter!
 
-### **Dates**
+## Sign Ups
+If you think you're going to stay we ask that you fill out this google form to get informed and emails from me regarding important dates, announcements, and resources. 
+
+Link: http://tinyurl.com/mv5netj
+
+## **Dates**
 + HG Data Hackathon Informational Meeting
 	+ [Link to Sign Up](http://tinyurl.com/mmd9d3t)
 	+ Time and Date: April 9th(?)
@@ -37,4 +42,4 @@
 This is basically saying:
 + Any work on previous projects has to be done **outside** the regular Wednesday meetings
 + Necessary because of the library showcasing and eventual publishing on *inertia7*
-+ Talk to me or David if you are ready to start publishing 
++ Talk to me or David if you are ready to start publishing cd
