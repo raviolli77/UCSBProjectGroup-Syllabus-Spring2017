@@ -6,10 +6,10 @@
 	+ Time and Date: April 9th(?)
 	+ Somewhere on campus or I.V. 
 + HG Data Hackathon 
-	+ Time and Date: April 26th 2017
+	+ Time and Date: April 28th 2017
 	+ Locaation: HG Data Offices
 + Data Science Club Showcase 
-	+ Time and Date: April 28th 2017
+	+ Time and Date: April 26th 2017 7PM
 	+ Location: Interdisciplinary Research Collaboratory (Library)
 	+ Link: http://www.library.ucsb.edu/events-exhibitions/data-science-club-showcase
 ### **Introductions**
