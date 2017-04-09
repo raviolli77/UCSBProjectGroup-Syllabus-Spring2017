@@ -64,5 +64,5 @@
 - [Datacamp](https://www.datacamp.com/)
 - [Inertia7](http://www.inertia7.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/) (Great machine learning tutorials)
-- [StackOverflow](http://stackoverflow.com/) #1 stop for programming questions
+- [StackOverflow](http://stackoverflow.com/) (#1 stop for programming questions)
 - [w3Schools Tutorials](https://www.w3schools.com/) (Resources for various programming languages - not just Python)
