@@ -31,7 +31,7 @@
   - [Forking a Repo](https://help.github.com/articles/fork-a-repo/)
   - [Be Social](https://help.github.com/articles/be-social/)
   - [David's Git Repo](https://github.com/dcamposliz/learnGit)
-- For Noobs:
+- For noobs:
   - [Download GitHub Desktop](https://desktop.github.com/)
   - [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
   - [Using GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
