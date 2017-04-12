@@ -6,6 +6,7 @@ This repository serves as an itinerary for the Project Group for Spring Quarter 
 
 # Table of Contents
 * [Week 1](/weekOne/weekOne.md)
+* [Week 2](/weekTwo/weekTwo.md)
 
 ## Resources
 + [Data Science at UCSB - Website](http://datascience.pstat.ucsb.edu/)
