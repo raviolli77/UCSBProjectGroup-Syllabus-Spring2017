@@ -19,7 +19,7 @@
 	+ Location: UCen, Flying A Studio
 	+ [Link](https://www.facebook.com/events/306141239800548/)
 
-<img src="http://ww1.prweb.com/prfiles/2015/04/28/13075821/HG-Data-Logo-Ocean-1030x225.png">
+<img src="http://ww1.prweb.com/prfiles/2015/04/28/13075821/HG-Data-Logo-Ocean-1030x225.png" width="600px">
 
 + **HG Data** Hackathon 
 	+ Time and Date: April 26th 2017
