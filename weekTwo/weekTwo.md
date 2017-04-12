@@ -95,6 +95,8 @@ Talk about:
 
 Best way to learn is just by doing, and following by example. 
 
+## **Find Forms of Communication** 
+
 Those with more experience help teammates do the following:
 + Establish channels for communication:
 	+ *Slack*
