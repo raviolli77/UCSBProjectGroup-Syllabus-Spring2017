@@ -4,7 +4,6 @@
 "*The revolution will not be televised, it will be properly documented with a pretty README*" - Gandhi
 
 **Preliminaries**:
-<<<<<<< HEAD
 + **HG Data Hackathon** Informational Meeting
 	+ Time and Date: April 16th around 1ish
 	+ Somewhere on campus or I.V.
@@ -25,7 +24,6 @@
 	+ [Link to Sign Up](http://tinyurl.com/mmd9d3t)
 + **Data Science Club Showcase** 
 	+ Time and Date: April 28th 2017
-=======
 + HG Data Hackathon Informational Meeting
 	+ Time and Date: April 9th(?)
 	+ Somewhere on campus or I.V. 
@@ -34,7 +32,6 @@
 	+ Locaation: HG Data Offices
 + Data Science Club Showcase 
 	+ Time and Date: April 26th 2017 7PM
->>>>>>> 80a8dbf74eac4282b3e2293b762d6ab29478bc5a
 	+ Location: Interdisciplinary Research Collaboratory (Library)
 	+ [Link](https://www.facebook.com/events/1312104892216288/) 
 
