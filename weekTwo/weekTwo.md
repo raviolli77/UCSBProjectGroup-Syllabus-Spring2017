@@ -13,6 +13,7 @@
 	+ Somewhere on campus or I.V.
 
 <img src="http://datascience.pstat.ucsb.edu/uploads/7/0/7/1/70716011/1455580810_1.png">
+
 + **Graphiq**
 	+ Time and Date: April 13th 2017, 5-7 pm
 	+ Location: UCen, Flying A Studio
