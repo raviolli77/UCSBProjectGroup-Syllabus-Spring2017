@@ -68,17 +68,38 @@ Talk about what you are looking to accomplish this quarter, for those of you who
 
 Key take aways:
 + De facto project leader
-+ Organize time wisely 
++ Organize time wisely
+ 	+ Have tangible goals every meeting 
 	+ Be concrete in what you wish to accomplish every meeting time
-	+ Implement **Stand Ups**
+	+ Implement **Stand Ups** 
++ Make note of attendance and make safety nets for days of absence (usually around midterm season)
 
+Talk about:
++ Project Idea
++ Necessary steps needed if data set isn't readily available
+	+ Do you have to *webscrape*? If so do you prior experience or anyone in your team.
++ Provide link for team members to be able to access the data set. 
++ Understand *GitHub* workflow, teach it to other teammates
++ *Virtual Environments*, again teach if other teammates
++ Any documentation which you think will help your other teammates get context
+	+ Relevant articles about the data set
+ 	+ Published papers about data set
+ 	+ Documentation of *Algorithms* and implementation examples (online *Jupyter Notebooks*, *Kaggle* kernels, *r-blogger* article)
++ Documentation for the modules and packages most useful documentation available. 
+
++ Discuss weaknesses, technologies, expertise, talent
+	+ Pick **R** or **Python**
+	+ Discuss schedules 
+
+[Just doing it live](https://www.youtube.com/watch?v=Qy-Y3HJNU_s)
+
+Best way to learn is just by doing, and following by example. 
 
 Those with more experience help teammates do the following:
 + Establish channels for communication:
-	+ Slack 
-	+ GitHub
-	+ Phone
-	+ Email
-	+ GroupMe
-	+ Facebook 
-
+	+ *Slack*
+	+ *GitHub*
+	+ *Phone*
+	+ *Email*
+	+ *GroupMe*
+	+ *Facebook
