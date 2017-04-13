@@ -108,3 +108,6 @@ Those with more experience help teammates do the following:
 	+ *Email*
 	+ *GroupMe*
 	+ *Facebook
+	
+## Sign Ups
+Link to sign up for the email list for the group: [http://tinyurl.com/mv5netj](http://tinyurl.com/mv5netj)
