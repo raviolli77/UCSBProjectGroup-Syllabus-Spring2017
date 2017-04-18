@@ -22,18 +22,13 @@
 <img src="http://ww1.prweb.com/prfiles/2015/04/28/13075821/HG-Data-Logo-Ocean-1030x225.png" width="600px">
 
 + **HG Data** Hackathon 
-	+ Time and Date: April 26th 2017
+	+ Time and Date: April 28th 2017
 	+ Locaation: HG Data Offices
 	+ [Link](https://www.facebook.com/events/1312104892216288/)
 	+ [Link to Sign Up](http://tinyurl.com/mmd9d3t)
-+ **Data Science Club Showcase** 
-	+ Time and Date: April 28th 2017
 + HG Data Hackathon Informational Meeting
 	+ Time and Date: April 9th(?)
 	+ Somewhere on campus or I.V. 
-+ HG Data Hackathon 
-	+ Time and Date: April 28th 2017
-	+ Locaation: HG Data Offices
 + Data Science Club Showcase 
 	+ Time and Date: April 26th 2017 7PM
 	+ Location: Interdisciplinary Research Collaboratory (Library)
