@@ -45,7 +45,8 @@ Talk about:
 + Understand *GitHub* workflow, teach it to other teammates
 	+ For more advanced users learn **git** workflow
 + *Virtual Environments*, again teach if other teammates
-+ Any documentation which you think will help your other teammates get context
+### Post Shit on Slack 
+Any documentation which you think will help your other teammates get context
 	+ Relevant articles about the data set
  	+ Published papers about data set
  	+ Documentation of *Algorithms* and implementation examples (online *Jupyter Notebooks*, *Kaggle* kernels, *r-blogger* article)
