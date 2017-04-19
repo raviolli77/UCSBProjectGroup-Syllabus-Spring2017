@@ -1,5 +1,5 @@
 # Spring Quarter Project Group - Data Science at UCSB
-## Week 2: Team Workflows
+## Week 3: Team Workflows
 
 **Preliminaries**:
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t31.0-8/17761132_1062381860572360_8797131265453106947_o.jpg?oh=fbb3d6c2baa375ea1408c9e153cc5c8b&oe=59888707" width="600px">
@@ -27,8 +27,14 @@ Key take aways:
 + Organize time wisely
  	+ Have tangible goals every meeting 
 	+ Be concrete in what you wish to accomplish every meeting time
-	+ Implement **Stand Ups** 
-+ Make note of attendance and make safety nets for days of absence (usually around midterm season)
+	+ Implement **Stand Ups**
+
+## Structure of an effective Stand Up:
++ What did I accomplish last meeting?
++ What will I do today?
++ What obstacles are impeding my progress? (Blockers)
+
+Make note of attendance and make safety nets for days of absence (usually around midterm season)
 
 Talk about:
 + Project Idea
@@ -36,6 +42,7 @@ Talk about:
 	+ Do you have to *webscrape*? If so do you prior experience or anyone in your team.
 + Provide link for team members to be able to access the data set. 
 + Understand *GitHub* workflow, teach it to other teammates
+	+ For more advanced users learn **git** workflow
 + *Virtual Environments*, again teach if other teammates
 + Any documentation which you think will help your other teammates get context
 	+ Relevant articles about the data set
