@@ -69,4 +69,4 @@ Those with more experience help teammates do the following:
 	+ *Phone*
 	+ *Email*
 	+ *GroupMe*
-	+ *Facebook
+	+ *Facebook*
