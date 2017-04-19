@@ -34,6 +34,7 @@ Key take aways:
 + What will I do today?
 + What obstacles are impeding my progress? (Blockers)
 
+## Good Team Work Ethics
 Make note of attendance and make safety nets for days of absence (usually around midterm season)
 
 Talk about:
