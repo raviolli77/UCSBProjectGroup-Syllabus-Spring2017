@@ -19,6 +19,8 @@
 + Fill in the sign in sheet [here](http://tinyurl.com/mmd9d3t)
 + [Facebook Link](https://www.facebook.com/events/1312104892216288/)
 
+
+
 ## **Form Teams**
 Talk about what you are looking to accomplish this quarter, for those of you who were already in a team from last quarter use things that you felt needed improvements as learning experiences. 
 
@@ -42,8 +44,7 @@ Talk about:
 + Necessary steps needed if data set isn't readily available
 	+ Do you have to *webscrape*? If so do you prior experience or anyone in your team.
 + Provide link for team members to be able to access the data set. 
-+ Understand *GitHub* workflow, teach it to other teammates
-	+ For more advanced users learn **git** workflow
++ Understand *GitHub* as it relates to *git* workflow, teach it to other teammates
 + *Virtual Environments*, again teach if other teammates
 ### Post Shit on Slack 
 Any documentation which you think will help your other teammates get context
