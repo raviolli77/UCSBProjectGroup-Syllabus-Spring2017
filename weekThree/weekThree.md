@@ -14,6 +14,9 @@
 + Location: Interdisciplinary Research Collaboratory (Library)
 + [Link](https://www.facebook.com/events/1312104892216288/) 
 
+
+<img src="http://ww1.prweb.com/prfiles/2015/04/28/13075821/HG-Data-Logo-Ocean-1030x225.png" width="600px">
+
 [HG Data](https://www.hgdata.com/) Hackathon confirmation by **this week**
 + Time and Date: April 28th 2017
 + Fill in the sign in sheet [here](http://tinyurl.com/mmd9d3t)
