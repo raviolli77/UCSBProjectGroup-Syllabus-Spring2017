@@ -10,7 +10,7 @@ This repository serves as an itinerary for the Project Group for Spring Quarter 
 * [Week 3](/weekThree/weekThree.md)
 * [Week 4](/weekFour/weekFour.md)
 * [Week 5](/weekFive/weekFive.md)
-
+* [Week 6](/weekFive/weekSix.md)
 
 ## Resources
 [Resources Page](/resources/Resources.md)
